@@ -1,7 +1,6 @@
 <h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1> 
 <link rel="stylesheet" href="styles.css">
-<h3>Reto 1. Máster</h3>
-
+<h2>Reto 1. Máster</h2>
 [![Integrante 1](https://i.imgur.com/Va9bVmU.png)](https://i.imgur.com/XSGL3SN.png)
 [![Integrante 2](https://i.imgur.com/gM8pMzh.png)](https://i.imgur.com/aDTkds8.png)
 [![Integrante 3](https://i.imgur.com/IJAUtvr.png)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
@@ -9,12 +8,6 @@
 [![Integrante 5](https://i.imgur.com/9tVZ9aB.png)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
 
 ![Reto 1](https://i.imgur.com/fCiDZhn.jpg)
-
-![TeXt Theme Details](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-layouts.png)
-
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-
-**[Change Log](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)** | **[中文](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
 
 ## Tabla de contenidos
 - [Virtualización](#Virtualización)
@@ -52,11 +45,63 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
   - [Personalización de facturación](#Personalización-de-facturación)
 
 ## Skins
+# Virtualización
+		
+## Hipervisor
+		
+## Modelos de nube (pública, privada, híbrida)
+		
+## Ventajas de la nube
+					
+### Alta disponibilidad
+			
+###  Escalabilidad
+			
+###  Elasticidad
+			
+###  Agilidad
+			
+###  Distribución geográfica
+			
+###  Recuperación ante desastres
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+### Gastos (CapEx y OpEx)
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
+### Modelo basado en el consumo
+			
+			
+## Modelos de servicio en la nube (IaaS, PaaS, SaaS)
+		
+## Informática sin servidor
+		
+	
+# Azure
+			
+## Proceso de una petición (orquestador, Fabric Controller)
+		
+## Servicios de Azure
+### Computación
+### Redes
+### Almacenamiento
+### Servicios móviles
+### Bases de datos
+### Web
+### IoT
+### Big Data
+### DevOps
+		
+## Regiones, zonas de disponibilidad y par de regiones
+		
+## Recursos y grupos de recursos
+		
+## Azure Resource Manager
+		
+## Suscripciones
+		
+## Grupos de administración
+		
+## Personalización de facturación
+
 | ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
 | `ocean` | `chocolate` | `orange` |
