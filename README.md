@@ -3,10 +3,10 @@
 <h3>Reto 1. Máster</h3>
 
 [![Integrante 1](https://i.imgur.com/ibtJxog.png)](https://i.imgur.com/0WfKRY7.png)
-[![Integrante 2](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
-[![Integrante 3](https://img.shields.io/travis/kitian616/jekyll-TeXt-theme.svg)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
-[![Integrante 4](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/kitian616)
-[![Integrante 5](https://img.shields.io/badge/Bitcoin-tip%20me-f7931a.svg?logo=bitcoin)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
+[![Integrante 2](https://i.imgur.com/gM8pMzh.png)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
+[![Integrante 3](https://i.imgur.com/IJAUtvr.png)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
+[![Integrante 4](https://i.imgur.com/8iahyIW.png)](https://www.paypal.me/kitian616)
+[![Integrante 5](https://i.imgur.com/9tVZ9aB.png)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
 
 ![Reto 1](https://i.imgur.com/fCiDZhn.jpg)
 
