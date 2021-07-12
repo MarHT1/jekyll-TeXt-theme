@@ -1,5 +1,4 @@
 <h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1> 
-<link rel="stylesheet" href="styles.css">
 <h3>Reto 1. Máster</i></h3>
 [![Integrante 1](https://i.imgur.com/Va9bVmU.png)](https://i.imgur.com/XSGL3SN.png)
 [![Integrante 2](https://i.imgur.com/gM8pMzh.png)](https://i.imgur.com/aDTkds8.png)
@@ -44,7 +43,6 @@
   - [Grupos de administración](#Grupos-de-administración)
   - [Personalización de facturación](#Personalización-de-facturación)
 
-## Skins
 # Virtualización
 		
 ## Hipervisor
