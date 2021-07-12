@@ -6,7 +6,7 @@
 [![Integrante 4](https://i.imgur.com/8iahyIW.png)](https://www.paypal.me/kitian616)
 [![Integrante 5](https://i.imgur.com/9tVZ9aB.png)]
 
-![Reto 1](https://i.imgur.com/fCiDZhn.jpg)
+![Reto](https://i.imgur.com/fCiDZhn.jpg)
 
 ## Tabla de contenidos
 - [Virtualización](#Virtualización)
