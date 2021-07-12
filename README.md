@@ -1,11 +1,11 @@
 <h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1> 
 <link rel="stylesheet" href="styles.css">
-<h3>Reto 1. Máster</h3>
+<h3>Reto 1. Máster</i></h3>
 [![Integrante 1](https://i.imgur.com/Va9bVmU.png)](https://i.imgur.com/XSGL3SN.png)
 [![Integrante 2](https://i.imgur.com/gM8pMzh.png)](https://i.imgur.com/aDTkds8.png)
 [![Integrante 3](https://i.imgur.com/IJAUtvr.png)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
 [![Integrante 4](https://i.imgur.com/8iahyIW.png)](https://www.paypal.me/kitian616)
-[![Integrante 5](https://i.imgur.com/9tVZ9aB.png)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
+[![Integrante 5](https://i.imgur.com/9tVZ9aB.png)]
 
 ![Reto 1](https://i.imgur.com/fCiDZhn.jpg)
 
