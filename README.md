@@ -1,4 +1,4 @@
-# [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+# [Reto 1](https://marht1.github.io/jekyll-TeXt-theme/)
 
 [![license](https://img.shields.io/github/license/kitian616/jekyll-TeXt-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE)
 [![Gem Version](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
@@ -14,24 +14,40 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 
 **[Change Log](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/CHANGELOG.md)** | **[中文](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/README-zh.md)**
 
-## Features
-
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+## Tabla de contenidos
+- [Virtualización](#Virtualización)
+  - [Hipervisor](#Hipervisor)
+  - [Modelos de nube (pública, privada, híbrida)](#Modelos-de-nube-(pública,-privada,-híbrida))
+  - [Ventajas de la nube](#Ventajas-de-la-nube)
+    - [Alta disponibilidad](#Alta-disponibilidad)
+    - [Escalabilidad](#Escalabilidad)
+    - [Elasticidad](#Elasticidad)
+    - [Agilidad](#Agilidad)
+    - [Escalabilidad](#Escalabilidad)
+    - [Distribución geográfica](#Distribución-geográfica)
+    - [Recuperación ante desastres](#Recuperación-ante-desastres)
+    - [Gastos (CapEx y OpEx)](#Gastos-(CapEx-y-OpEx))
+    - [Modelo basado en el consumo](#Modelo-basado-en-el-consumo)
+  - [Modelos de servicio en la nube (IaaS, PaaS, SaaS)](#Modelos-de-servicio-en-la-nube-(IaaS,-PaaS,-SaaS))
+  - [Informática sin servidor](#Informática-sin-servidor)
+- [Azure](#Azure)
+  - [Proceso de una petición (orquestador, Fabric Controller)](#Proceso-de-una-petición-(orquestador,-Fabric-Controller))
+  - [Servicios de Azure](#Servicios-de-Azure)
+    - [Computación](#computación)
+    - [Redes](#Redes)
+    - [Almacenamiento](#Almacenamiento)
+    - [Servicios móviles](#Servicios-móviles)
+    - [Bases de datos](#Bases-de-datos)
+    - [Web](#Web)
+    - [IoT](#IoT)
+    - [Big Data](#Big-Data)
+    - [DevOps](#DevOps)
+  - [Regiones, zonas de disponibilidad y par de regiones](#Regiones,-zonas-de-disponibilidad-y-par-de-regiones)
+  - [Recursos y grupos de recursos](#Recursos-y-grupos-de-recursos)
+  - [Azure Resource Manager](#Azure-Resource-Manager)
+  - [Suscripciones](#Suscripciones)
+  - [Grupos de administración](#Grupos-de-administración)
+  - [Personalización de facturación](#Personalización-de-facturación)
 
 ## Skins
 
