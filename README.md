@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="styles.css">
 <h3>Reto 1. Máster</h3>
 
-[![Integrante 1](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://i.imgur.com/0WfKRY7.png)
+[![Integrante 1](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://i.imgur.com/VSaKT7e.png)
 [![Integrante 2](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
 [![Integrante 3](https://img.shields.io/travis/kitian616/jekyll-TeXt-theme.svg)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
 [![Integrante 4](https://img.shields.io/badge/PayPal-tip%20me-1462ab.svg?logo=paypal)](https://www.paypal.me/kitian616)
