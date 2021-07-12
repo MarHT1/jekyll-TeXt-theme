@@ -1,7 +1,6 @@
-<h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i>(https://marht1.github.io/jekyll-TeXt-theme/)</h1> 
+<h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1> 
 ![Reto 1](https://i.imgur.com/fCiDZhn.jpg)
 <link rel="stylesheet" href="styles.css">
-<h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1>
 <h3>Reto 1. Máster</h3>
 
 [![Integrante 1](https://img.shields.io/github/license/kitian616/jekyll-TeXt-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE)
