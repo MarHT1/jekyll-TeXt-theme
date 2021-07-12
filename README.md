@@ -1,5 +1,4 @@
 <h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1> 
-![Reto 1](https://i.imgur.com/fCiDZhn.jpg)
 <link rel="stylesheet" href="styles.css">
 <h3>Reto 1. Máster</h3>
 
