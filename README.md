@@ -1,4 +1,4 @@
-<h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1> (https://marht1.github.io/jekyll-TeXt-theme/)
+<h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i>(https://marht1.github.io/jekyll-TeXt-theme/)</h1> 
 ![Reto 1](https://i.imgur.com/fCiDZhn.jpg)
 <link rel="stylesheet" href="styles.css">
 <h1>Summer Cloud &mdash; <i style="font-style: bold;">Cloud Surfers 🏄☀️</i></h1>
