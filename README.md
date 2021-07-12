@@ -3,7 +3,7 @@
 <h3>Reto 1. Máster</h3>
 
 [![Integrante 1](https://i.imgur.com/Va9bVmU.png)](https://i.imgur.com/XSGL3SN.png)
-[![Integrante 2](https://i.imgur.com/gM8pMzh.png)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
+[![Integrante 2](https://i.imgur.com/gM8pMzh.png)](https://i.imgur.com/aDTkds8.png)
 [![Integrante 3](https://i.imgur.com/IJAUtvr.png)](https://travis-ci.org/kitian616/jekyll-TeXt-theme)
 [![Integrante 4](https://i.imgur.com/8iahyIW.png)](https://www.paypal.me/kitian616)
 [![Integrante 5](https://i.imgur.com/9tVZ9aB.png)](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/3Fkufxcw2xd8HnaRJBNK4ccdtkUDyyNu4V.jpg)
